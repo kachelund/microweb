@@ -68,4 +68,8 @@ return [
         'format' => 'https://snapchat.com/add/%s',
         'input_group' => true,
     ],
+    'website' => [
+        'format' => '%s',
+        'input_group' => true,
+    ],
 ];

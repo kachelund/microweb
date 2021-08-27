@@ -1231,6 +1231,12 @@
 					"name"					: "Snapchat",
 					"placeholder"			: "Snapchat username",
 					"icon"					: "fab fa-snapchat"
+				},
+
+				"website": {
+					"name"					: "Website",
+					"placeholder"			: "url",
+					"icon"					: "fas fa-globe"
 				}
 			},
 			"fonts_header"					: "Fonts",
